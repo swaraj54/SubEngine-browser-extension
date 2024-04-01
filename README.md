@@ -1,5 +1,8 @@
 Title: SubEngine 🚀 - Browser Extension
 
+Application Explanation :
+https://drive.google.com/file/d/1ivM9W9eu9lC5i-CwzItqa_Db1QKaE5Oc/view?usp=sharing
+
 Chech here Documentations and planning :
 https://docs.google.com/spreadsheets/d/1QXw1NzB0lQbrw8RTblgh25wSKGJ40GOR6MldfJqwtlE/edit?usp=sharing
 https://drive.google.com/file/d/16SxL_56CuyYwOw_HgUXOsGvBrSaAcfGr/view?usp=sharing
@@ -42,3 +45,6 @@ Performance Optimization: Optimize performance for faster analysis and response 
 User Engagement Features: Implement features to encourage user participation and feedback submission, such as gamification elements or incentivized feedback programs.
 Accessibility Considerations: Ensure the extension is accessible to users with disabilities by adhering to accessibility standards and guidelines.
 Security Enhancements: Enhance security measures to protect user data and ensure secure communication with external APIs and databases.
+
+![Screenshot (70)](https://github.com/swaraj54/SubEngine-browser-extension/assets/70018714/3911e357-7502-43d8-912c-987ed8a063c9)
+
