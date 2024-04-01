@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "SubEngine 🚀",
+  "description": "Helo Helo",
+  "version": "1.0.0",
+  "permissions": ["activeTab", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["contentScript.js"]
+    }
+  ]
+}
